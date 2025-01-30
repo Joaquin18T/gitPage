@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <h2>Home</h2>
-      <NavLink to={'/about'}>About</NavLink>
+      <NavLink to={'gitPage/about'}>About</NavLink>
     </div>
   )
 }
