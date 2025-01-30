@@ -5,7 +5,7 @@ export default function About() {
   return (
     <div>
       <h2>About</h2>
-      <NavLink to={'/gitPage'}>Home</NavLink>
+      <NavLink to={'/'}>Home</NavLink>
     </div>
   )
 }
