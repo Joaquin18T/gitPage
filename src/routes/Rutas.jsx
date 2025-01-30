@@ -8,7 +8,7 @@ export default function Rutas() {
     <>
       <Routes>
         <Route path='/gitPage' element={<Home/>}/>
-        <Route path='gitPage/about' element={<About/>}/>
+        <Route path='/gitPage/about' element={<About/>}/>
       </Routes>
     </>
   )
